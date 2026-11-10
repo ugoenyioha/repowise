@@ -1,0 +1,21 @@
+packages/core/src/repowise/core/analysis/kg_tour.py
+  s_befd3a671b0351::t_9c02e69c0749b9 126-140,143,148-152,298-300,340,548,899
+tests/unit/analysis/test_kg_tour_readme.py
+  s_befd3a671b0351::t_b7dbeafe35adda 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f066afc099196c87e75f300c7d536605b0ef6489",
+  "prompts": {},
+  "sessions": {
+    "s_befd3a671b0351": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecdacc52effegjm25KJmnD8MwB",
+        "model": "anthropic/claude-sonnet-5-5"
+      },
+      "human_author": "Claude <claude@anthropic.com>"
+    }
+  }
+}
