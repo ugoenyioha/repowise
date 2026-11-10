@@ -1,0 +1,23 @@
+packages/core/src/repowise/core/analysis/kg_tour.py
+  s_befd3a671b0351::t_9c02e69c0749b9 126-140,143,148-152,298-300,340,548,899
+packages/core/src/repowise/core/generation/cascade.py
+  s_befd3a671b0351::t_39bc18deaba0d5 135-141
+tests/unit/generation/test_cascade.py
+  s_befd3a671b0351::t_e3b90a1b6b8eca 103-124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8af27d5123cf50959042aeb78044fc713760c2ab",
+  "prompts": {},
+  "sessions": {
+    "s_befd3a671b0351": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecdacc52effegjm25KJmnD8MwB",
+        "model": "anthropic/claude-sonnet-5-5"
+      },
+      "human_author": "Claude <claude@anthropic.com>"
+    }
+  }
+}
