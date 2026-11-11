@@ -1,0 +1,21 @@
+tests/unit/generation/test_cascade.py
+  s_befd3a671b0351::t_e3b90a1b6b8eca 103-124
+packages/core/src/repowise/core/generation/cascade.py
+  s_befd3a671b0351::t_39bc18deaba0d5 135-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eb785a62e174458a4a806a1664565a5766eaaa6a",
+  "prompts": {},
+  "sessions": {
+    "s_befd3a671b0351": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ecdacc52effegjm25KJmnD8MwB",
+        "model": "anthropic/claude-sonnet-5-5"
+      },
+      "human_author": "Claude <claude@anthropic.com>"
+    }
+  }
+}
